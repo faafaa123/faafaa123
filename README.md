@@ -9,7 +9,6 @@ Here you can find a selection of my projects, focused on game development and we
 
 An ongoing game project where I work with **Three.js**, **Ammo.js**, and custom gameplay ideas.
 
-👉 **Link:**  
 https://www.odrivee.de/
 
 ---
