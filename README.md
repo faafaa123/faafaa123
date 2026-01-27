@@ -19,10 +19,10 @@ This project is finished and now freely available as open source.
 It consists of a frontend and a backend repository:
 
 ### 🔹 Frontend
-👉 https://github.com/USERNAME/APP-FRONTEND
+👉 https://github.com/faafaa123/skimpex-app
 
 ### 🔹 Backend
-👉 https://github.com/USERNAME/APP-BACKEND
+👉 https://github.com/faafaa123/skimpex-backend
 
 ---
 
