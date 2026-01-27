@@ -1,23 +1,23 @@
-# 👋 Hi, ich bin [Dein Name]
+# 👋 Hi, I'm [Your Name]
 
-Willkommen auf meinem GitHub-Profil!  
-Hier findest du eine Auswahl meiner Projekte – mit Fokus auf Game Development und Web-/App-Entwicklung.
+Welcome to my GitHub profile!  
+Here you can find a selection of my projects, focused on game development and web/app development.
 
 ---
 
-## 🎮 Spieleprojekt
+## 🎮 Game Project
 
-Ein fortlaufendes Game-Projekt, in dem ich u.a. mit **Three.js**, **Ammo.js** und eigenen Gameplay-Ideen arbeite.
+An ongoing game project where I work with **Three.js**, **Ammo.js**, and custom gameplay ideas.
 
 👉 **Repository:**  
-https://github.com/USERNAME/DEIN-SPIELEPROJEKT
+https://github.com/USERNAME/YOUR-GAME-PROJECT
 
 ---
 
-## 📱 Abgeschlossenes App-Projekt (jetzt Open Source)
+## 📱 Completed App Project (Now Open Source)
 
-Dieses Projekt ist abgeschlossen und nun frei verfügbar.  
-Es besteht aus einem Frontend- und einem Backend-Repository:
+This project is finished and now freely available as open source.  
+It consists of a frontend and a backend repository:
 
 ### 🔹 Frontend
 👉 https://github.com/USERNAME/APP-FRONTEND
@@ -27,7 +27,7 @@ Es besteht aus einem Frontend- und einem Backend-Repository:
 
 ---
 
-## 🚀 Technologien
+## 🚀 Technologies
 
 - JavaScript / TypeScript  
 - Three.js / Ammo.js  
@@ -36,5 +36,4 @@ Es besteht aus einem Frontend- und einem Backend-Repository:
 
 ---
 
-📫 Falls du Interesse an einem Projekt hast oder Fragen auftauchen – gerne melden!
-
+📫 Feel free to reach out if you're interested in any project or have questions!
