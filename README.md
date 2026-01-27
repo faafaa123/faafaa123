@@ -26,13 +26,4 @@ It consists of a frontend and a backend repository:
 
 ---
 
-## 🚀 Technologies
-
-- JavaScript / TypeScript  
-- Three.js / Ammo.js  
-- Node.js / Express  
-- Web & Game Development  
-
----
-
 📫 Feel free to reach out if you're interested in any project or have questions!
