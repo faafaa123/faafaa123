@@ -7,7 +7,7 @@ Here you can find a selection of my projects, focused on game development and we
 
 ## 🚗 Game Project
 
-An ongoing game project where I work with **Three.js**, **Ammo.js**, and custom gameplay ideas.
+The simulation game reconstructs real terrain at true scale using DEMs and GeoJSON-based vector data.
 
 👉 https://www.odrivee.de/
 
