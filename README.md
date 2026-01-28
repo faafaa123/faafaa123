@@ -7,7 +7,7 @@ Here you can find a selection of my projects, focused on game development and we
 
 ## 🚗 Game Project
 
-The simulation game reconstructs real terrain at true scale using DEMs and GeoJSON-based vector data.
+The simulation game reconstructs our world at true scale using DEMs and GeoJSON-based vector data.
 
 👉 https://www.odrivee.de/
 
