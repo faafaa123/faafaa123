@@ -1,7 +1,6 @@
 # 👋 Hi, I'm Fabius
 
-Welcome to my GitHub profile!  
-Here you can find a selection of my projects, focused on game development and web/app development.
+Here are some of my projects:
 
 ---
 
