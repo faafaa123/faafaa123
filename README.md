@@ -6,7 +6,7 @@ Here are some of my projects:
 
 ## 🚗 Game Project
 
-The simulation game reconstructs our world at true scale using DEMs and GeoJSON-based vector data.
+The simulation game reconstructs our world at true scale using DEMs and GeoJSON-based vector data. You can currently explore part of Germany by car.
 
 👉 https://www.odrivee.de/
 
