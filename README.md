@@ -4,15 +4,6 @@ Here are some of my projects:
 
 ---
 
-## 🚗 Game Project
-
-This simulation game reconstructs our world at true scale using DEMs and GeoJSON-based vector data.<br/>
-You can currently explore a part of Germany by car.
-
-👉 https://www.odrivee.de/
-
----
-
 ## 📱 Completed Web-App Project
 
 This project is finished and now freely available as open source.  
@@ -23,6 +14,15 @@ It consists of a frontend and a backend repository:
 
 ### 🔹 Backend
 👉 https://github.com/faafaa123/skimpex-backend
+
+---
+
+## 🚗 Game Project
+
+This simulation game reconstructs our world at true scale using DEMs and GeoJSON-based vector data.<br/>
+You can currently explore a part of Germany by car.
+
+👉 https://www.odrivee.de/
 
 ---
 
