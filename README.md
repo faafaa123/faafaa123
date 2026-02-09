@@ -4,7 +4,7 @@ Here are some of my projects:
 
 ---
 
-## 📱 Current Side Project
+## 😏 Current Side Project
 
 React + Fluent UI – Enterprise UI Exploration  
 It consists of a frontend repository:
