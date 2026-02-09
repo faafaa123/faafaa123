@@ -6,7 +6,7 @@ Here are some of my projects:
 
 ## 📱 Current Side Project
 
-React + Fluent UI – Enterprise UI Exploration
+React + Fluent UI – Enterprise UI Exploration.
 A server monitor (dashboard) for a game server.
 It consists of a frontend repository:
 
