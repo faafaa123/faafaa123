@@ -4,6 +4,17 @@ Here are some of my projects:
 
 ---
 
+## 📱 Current Side Project
+
+React + Fluent UI – Enterprise UI Exploration
+A server monitor (dashboard) for a game server.
+It consists of a frontend repository:
+
+### 🔹 Frontend
+👉 https://github.com/faafaa123/server-monitor
+
+---
+
 ## 📱 Completed Web-App Project
 
 This project is finished and now freely available as open source.  
